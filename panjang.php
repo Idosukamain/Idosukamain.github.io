@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="judul">
-        <a href="home.php">Back</a>
+        <a href="index.html">Back</a>
 
         <h1>Rectangle</h1>
         <h2>Selamat datang di penghitung Persegi panjang</h2>
